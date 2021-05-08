@@ -2,9 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20Welcome%20to%20my%20Blog-orange)](https://moraouf.github.io/MLwithMo/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MoRaouf)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedraouf/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedraouf/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedraouf)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
+[![Outlook](https://img.shields.io/badge/-Microsoft_Outlook-#0078D4?style=flat&logo=Outlook&logoColor=white)](mailto:)
 
 - 👋 Hi, I’m @MoRaouf
 - 👀 I’m interested in ...
