@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MoRaouf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedraouf/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedraouf)
-[![Outlook](https://img.shields.io/badge/-Microsoft-Outlook-#0078D4?style=flat&logo=Outlook&logoColor=white)](mailto:)
+[![Outlook](https://img.shields.io/badge/-Microsoft-Outlook-#0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:)
 
 - 👋 Hi, I’m @MoRaouf
 - 👀 I’m interested in ...
