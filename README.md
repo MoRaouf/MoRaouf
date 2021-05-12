@@ -21,7 +21,7 @@
 	<img title="Python" src="https://github.com/MoRaouf/MoRaouf/blob/main/python.svg" width="40" height="40" />
 	<img title="AWS" src="https://github.com/MoRaouf/MoRaouf/blob/main/aws.svg" width="60" height="40" />
 	<img title="Git" src="https://github.com/MoRaouf/MoRaouf/blob/main/git.svg" width="70" height="40" />
-	<img title="MongoDB" src="https://github.com/MoRaouf/MoRaouf/blob/main/MongoDB.png" width=90" height="60" />
+	<img title="MongoDB" src="https://github.com/MoRaouf/MoRaouf/blob/main/MongoDB.png" width=100" height="50" />
 	<img title="Neo4J" src="https://github.com/MoRaouf/MoRaouf/blob/main/neo4j.png" width=70" height="40" />
 </p>
 
