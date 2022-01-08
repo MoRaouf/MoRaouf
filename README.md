@@ -6,8 +6,8 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedraouf)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:m.raouf.ai@outlook.com)
 
-- 👋 Hi, I’m @MoRaouf
-- 👀 I’m interested in Machine Learning, NLP & Deep Learning
+- 👋 Hi, I’m [MoRaouf](https://github.com/MoRaouf)
+- 👀 I’m interested in Machine Learning, Deep Learning & NLP
 - 💻 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on any exciting project related to ML,NLP & DL
 - 📫 You can reach me through my social contacts up here ☝️.
