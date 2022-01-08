@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @MoRaouf
 - 👀 I’m interested in Machine Learning, NLP & Deep Learning
-- 💻 I’m currently learning Machine Learning
+- 💻 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on any exciting project related to ML,NLP & DL
 - 📫 You can reach me through my social contacts up here ☝️.
 
