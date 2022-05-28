@@ -23,7 +23,7 @@
 	<img title="Spark" src="https://github.com/MoRaouf/MoRaouf/blob/main/apache_spark.svg" width="80" height="40" />
 	<img title="Azure" src="https://github.com/MoRaouf/MoRaouf/blob/main/Azure.png" width="40" height="40" />
 	<img title="Python" src="https://github.com/MoRaouf/MoRaouf/blob/main/python.svg" width="40" height="40" />
-        <img title="Scikit-learn" src="https://github.com/MoRaouf/MoRaouf/blob/main/scikit-learn.png" width="40" height="40" />
+        <img title="Scikit-learn" src="https://github.com/MoRaouf/MoRaouf/blob/main/sk-learn.png" width="60" height="40" />
         <img title="TensorFlow" src="https://github.com/MoRaouf/MoRaouf/blob/main/TF.png" width="60" height="40" />
 
 </p>
