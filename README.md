@@ -17,7 +17,7 @@
 
 <p align="left">
 	<img title="Python" src="https://github.com/MoRaouf/MoRaouf/blob/main/python.svg" width="40" height="40" />
-        <img title="Scikit-learn" src="https://github.com/MoRaouf/MoRaouf/blob/main/sk-learn.png" width="60" height="40" />
+        <img title="Scikit-learn" src="https://github.com/MoRaouf/MoRaouf/blob/main/sk-learn.png" width="70" height="40" />
         <img title="PyTorch" src="https://github.com/MoRaouf/MoRaouf/blob/main/PyTorch-logo.png" width="33" height="40" />
 	<img title="spaCy" src="https://github.com/MoRaouf/MoRaouf/blob/main/SpaCy-logo.png" width="80" height="40" />
 	<img title="AWS" src="https://github.com/MoRaouf/MoRaouf/blob/main/aws-logo.png" width=60" height="40" />
