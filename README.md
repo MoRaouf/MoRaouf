@@ -14,7 +14,7 @@
 
 
 ### My skills include
-
+---
 <p align="left">
 	<img title="Python" src="https://github.com/MoRaouf/MoRaouf/blob/main/python.svg" width="40" height="40" />
         <img title="Scikit-learn" src="https://github.com/MoRaouf/MoRaouf/blob/main/sk-learn.png" width="60" height="40" />
