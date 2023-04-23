@@ -14,6 +14,8 @@
 
 
 ## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<<
+> Find a list of the Data Science I accomplished so far, here ☝️.
+  
 
 ## My skills include
 
