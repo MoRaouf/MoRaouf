@@ -16,8 +16,7 @@
 ## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<<
 > Find a list of the Data Science projects I accomplished so far, here ☝️.
   
-<p align="right"><a href="https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url">
-<img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url" width="150px" height="1500px"/></a></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2200ecdd-c2dd-4323-8a65-d9365897d330" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## My skills include
 
