@@ -16,7 +16,8 @@
 ## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<<
 > Find a list of the Data Science projects I accomplished so far, here ☝️.
   
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2200ecdd-c2dd-4323-8a65-d9365897d330" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2200ecdd-c2dd-4323-8a65-d9365897d330" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## My skills include
 
