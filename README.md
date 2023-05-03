@@ -16,11 +16,11 @@
 ## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<<
 > Find a list of the Data Science projects I accomplished so far, here ☝️.
   
-<!-- <p align="center"><a href="https://www.credly.com/badges/d207cd28-489d-468e-8841-ba0133f01366/public_url">
-<img alt="Security Analyst Fundamentals Specialization" title="Security Analyst Fundamentals Specialization" src="https://images.credly.com/size/680x680/images/89fc0e9e-6da5-4146-b277-cd11c313123f/Security_Analyst_Fundamentals_Specialization.png" width="300px" height="300px"/></a></p>
-## My skills include -->
+<p align="right"><a href="https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url">
+<img alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" src="https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url" width="150px" height="1500px"/></a></p>
 
-https://www.credly.com/badges/2200ecdd-c2dd-4323-8a65-d9365897d330/public_url
+## My skills include
+
 
 <p align="left">
 	<img title="Python" src="https://github.com/MoRaouf/MoRaouf/blob/main/python.svg" width="40" height="40" />
