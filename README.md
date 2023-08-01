@@ -3,8 +3,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20MoSpace-orange)](https://mospace.netlify.app/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MoRaouf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedraouf/)
-<!-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedraouf) -->
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:m.raouf.ai@outlook.com)
+<!-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mohammedraouf) -->
+
 
 <!-- - 👋 Hi, I’m [MoRaouf](https://github.com/MoRaouf) -->
 - 👀 I’m interested in Machine Learning & NLP applications that add value to human's lives
