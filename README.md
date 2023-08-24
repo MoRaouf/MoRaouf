@@ -9,7 +9,7 @@
 
 <!-- - 👋 Hi, I’m [MoRaouf](https://github.com/MoRaouf) -->
 - 👀 I’m interested in Machine Learning & NLP applications that add value to human's lives
-- 💻 I’m currently diving into LLMs & LangChain, & getting certified as AWS Certified Machine Learning Speciality
+- 💻 I’m currently diving into Generative AI with different LLMs & LangChain applications
 - 💞️ I’m looking to collaborate on any exciting project related to ML & NLP
 - 📫 You can reach me through my social contacts up here ☝️.
 
