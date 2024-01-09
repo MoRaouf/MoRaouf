@@ -14,8 +14,8 @@
 - 📫 You can reach me through my social contacts up here ☝️.
 
 
-## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<<
-> Find a list of the Data Science projects I accomplished so far, here ☝️.
+<!-- ## >>>> [My Projects Portoflio](https://github.com/MoRaouf/Projects-Portfolio) <<<< -->
+<!-- > Find a list of the Data Science projects I accomplished so far, here ☝️. -->
 
 
 ## My skills include
