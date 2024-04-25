@@ -8,7 +8,7 @@
 
 
 <!-- - 👋 Hi, I’m [MoRaouf](https://github.com/MoRaouf) -->
-- 👀 I’m interested in Gneerative AI applications that advance businesses & add value to human's lives.
+- 👀 I’m interested in Generative AI applications that advance businesses & add value to human's lives.
 - 💻 I’m currently diving into Generative AI with different modalities.
 - 💞️ I’m looking to collaborate on any exciting project related to Generative AI.
 - 📫 You can reach me through my social contacts up here ☝️.
